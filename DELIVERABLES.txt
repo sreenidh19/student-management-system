@@ -1,0 +1,3 @@
+Student Management System
+Includes Core PHP pages, CSS, JavaScript, MySQL schema, README and project report.
+Start with README.md.
